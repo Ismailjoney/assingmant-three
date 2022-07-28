@@ -1,4 +1,8 @@
 .bannar-img img{
     height:100vh;
 }
+ul li{
+    list-style-type:none;
+    padding:10px 9px;
+}
  
